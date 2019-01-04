@@ -1,0 +1,10 @@
+enable  : true
+title   : I've Worked With
+subtitle: 
+clientsLogo:
+  - image : images/clients/newyorker1.png
+  - image : images/clients/aclu1.png
+  - image : images/clients/common.png
+  - image : images/clients/metis1.png
+ 
+   
